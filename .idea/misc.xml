@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/drawable/border_bottom.xml" value="0.1315" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/drawable/border_bottomright.xml" value="0.1315" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/drawable/border_right.xml" value="0.1315" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/drawable/round.xml" value="0.1925" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/drawable/sliding_border.xml" value="0.245" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/font/dancing_script.xml" value="0.14322916666666666" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/font/lobster.xml" value="0.284375" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game1.xml" value="0.14855072463768115" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game2.xml" value="0.24010416666666667" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game3.xml" value="0.24010416666666667" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game4.xml" value="0.24010416666666667" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game5.xml" value="0.14855072463768115" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_game6.xml" value="0.14855072463768115" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_main.xml" value="0.14855072463768115" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/layout/activity_splash.xml" value="0.12360688956433637" />
+        <entry key="..\:/MyAndroidApps/PuzzletheBrain/app/src/main/res/xml/click.xml" value="0.14855072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

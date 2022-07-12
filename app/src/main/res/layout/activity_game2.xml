@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    android:padding="12dp"
+    tools:context=".ActivityGame2">
+
+    <TextView
+        android:id="@+id/tv_level"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:gravity="left"
+        android:text="Level 1"
+        android:textColor="#D986EC"
+        android:textSize="30sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/tv_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="0"
+        android:textColor="@color/white"
+        android:textSize="50dp" />
+
+    <EditText
+        android:id="@+id/et_number"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="15dp"
+        android:digits="1234567890"
+        android:ems="10"
+        android:hint="What was the number?"
+        android:inputType="numberSigned"
+        android:textColor="@color/white"
+        android:textColorHint="#00BCD4"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/b_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/purple_500"
+        android:text="Confirm"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+
+</LinearLayout>
