@@ -1,5 +1,5 @@
 # UnPuzzle-the-Brain- 
-"UnPuzzle the Brain!" is a gaming app which consists of six different puzzle games. These 6 different puzzles are as following-
+"UnPuzzle the Brain!" is a gaming app which consists of six different puzzle games. These 6 different puzzles are as following -
 1. Sliding Number Game
 2. Memory Number Game
 3. Guess the Number 
