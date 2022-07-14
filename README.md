@@ -21,6 +21,10 @@
 
 This app is for the age group of 5 to 15 years old and by playing these puzzle games, it improves the focus, memory power, calculations, path finding, decision making, and many many more powers.
 
+App Illustration - https://www.linkedin.com/posts/gajendra-jangid-3333261ab_puzzlegame-softwaredevelopment-puzzle-ugcPost-6952961511371726848-Yvmy?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+App Link - https://drive.google.com/file/d/1O2z5VK4NoBYzytTvh3YUVZJk3pT1dikJ/view?usp=sharing
+
 ![Screenshot_20220625-041304 1](https://user-images.githubusercontent.com/89866416/178969931-204407f8-6c07-4cdd-805b-5bd2a9b38460.jpg)
 ![Screenshot_20220713-194246 1](https://user-images.githubusercontent.com/89866416/178970607-71e4d9d1-fa62-42cc-b00c-42bd5899cb1a.jpg)
 ![Screenshot_20220713-194321 1](https://user-images.githubusercontent.com/89866416/178970750-bb5e58ab-5247-464a-8aae-a19c76fecc67.jpg)
